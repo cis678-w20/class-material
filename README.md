@@ -4,6 +4,7 @@ This repo holds all of the material for the course, including
 the syllabus, assignments, projects, etc.
 
 Course Schedule
+
 | Week | Date  | Topic | Readings |
 | ---- | ----- | ----- | -------- |
 |  01  | 01/07 | Intro | Ch01   |
