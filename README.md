@@ -13,7 +13,10 @@ Course Schedule
 |  04  | 01/28 | Classification, Naive Bayes, Classification Metrics | 3.1, 3.2, 19.7, 14.3 |
 |  05  | 02/04 | MLE, MLE + NB, Association Rules | 3.3, 3.4, 3.5, 4.1, 4.2, 4.4 |
 |  06  | 02/11 | Recommender Systems | 3.5 (Apriori Alg.) [Ullman Recommendation Systems Chap](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf) |
-
+|  07  | 02/18 | Decision Trees / Classification Trees, Entropy, Determing Split and Building Tree | 9.1 - 9.3 |
+|  08  | 02/25 | Continuous-valued attributes, Regression Trees, Pruning, Random Forests, Bagging, Boosting | 9.3, 9.6, 9.7, 171, 17.2 17.6, 17.8 |
+|  08  | 03/10 | Logistic Regression, GD, SGD, MBGD, Neural Networks (single layer) | 10.1-10.8, 11.1-11.4 |
+|  09  | 03/17 | Multi-layer Neural Networks | 11.5-11.9 |
 
 ### Helpful links
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
