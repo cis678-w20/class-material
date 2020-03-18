@@ -16,7 +16,7 @@ Course Schedule
 |  07  | 02/18 | Decision Trees / Classification Trees, Entropy, Determing Split and Building Tree | 9.1 - 9.3 |
 |  08  | 02/25 | Continuous-valued attributes, Regression Trees, Pruning, Random Forests, Bagging, Boosting | 9.3, 9.6, 9.7, 171, 17.2 17.6, 17.8 |
 |  08  | 03/10 | Logistic Regression, GD, SGD, MBGD, Neural Networks (single layer) | 10.1-10.8, 11.1-11.4 |
-|  09  | 03/17 | Multi-layer Neural Networks <br> [scribbles-part1](scribbles/lec09-a.pdf) <br> [NN Tutorial](misc/tutorial_NeuralNetwork.pdf) <br> [scribbles-part2](scribbles/lec09-c.pdf) <br> Assigned: [NN HW](hw-nn.pdf) due March 24 <br> Assigned [Project 4](project4/project4.pdf) due March 31 | 11.5-11.9 <br> lec09-* |
+|  09  | 03/17 | Multi-layer Neural Networks <br> [scribbles-part1](scribbles/lec09-a.pdf) <br> [NN Tutorial](misc/tutorial_NeuralNetwork.pdf) <br> [scribbles-part2](scribbles/lec09-c.pdf) <br> Assigned: [NN HW](hw-nn.pdf) due March 24 <br> Assigned [Project 4](project4/project4.pdf) due March 31 | 11.5-11.9 <br> Watch videos `lec09-*` |
 
 ### Lecture Videos
 [OneDrive](https://gvsu5-my.sharepoint.com/:f:/g/personal/carrieer_gvsu_edu/Ep6PnjOoJmxJkynQ4OIaL3UB2jHbS4ZC9iUS2xRi3MV_ZQ?e=kgrqUl)
