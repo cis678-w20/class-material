@@ -20,5 +20,6 @@ Course Schedule
 
 
 ### Helpful links
-[Lecture Videos](https://gvsu5-my.sharepoint.com/:f:/g/personal/carrieer_gvsu_edu/Ep6PnjOoJmxJkynQ4OIaL3UB2jHbS4ZC9iUS2xRi3MV_ZQ?e=kgrqUl)
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+* [Lecture Videos](https://gvsu5-my.sharepoint.com/:f:/g/personal/carrieer_gvsu_edu/Ep6PnjOoJmxJkynQ4OIaL3UB2jHbS4ZC9iUS2xRi3MV_ZQ?e=kgrqUl)
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
