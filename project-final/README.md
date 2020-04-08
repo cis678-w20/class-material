@@ -20,7 +20,7 @@ As with the past projects, you are free to do this individually or with a partne
 
 ## Option 1:  Reinforcement Learning Project
 This is a preset project like the other ones to implement RL for a tic-tac-toe game.
-See the [project description](project-final/final-project-reinforcement-option.pdf)
+See the [project description](final-project-reinforcement-option.pdf)
 for more details.  If you go this route, your presentation should focus on
 anything you found particularly interesting, neat visualizations, code aspects.
 
