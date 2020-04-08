@@ -16,7 +16,7 @@ then screen share your desktop and record the meeting (this is how I record my l
 Piazza has an option to insert video, so you should be able to post the video directly
 there.  If not, let me know and I will create a different shared space to upload.
 
-As with the past projects, you are fee to do this individually or with a partner.
+As with the past projects, you are free to do this individually or with a partner.
 
 ## Option 1:  Reinforcement Learning Project
 This is a preset project like the other ones to implement RL for a tic-tac-toe game.
