@@ -20,6 +20,7 @@ Course Schedule
 |  10  | 03/24 | Deep Learning, CNN, RNN <br> [scribbles-all](scribbles/lec10-all.pdf) <br> Deep Learning Hands-on <br> [Access ghost and setup virtual environment](misc/deep-learning/DL_Config-VE.pdf) <br> Step through [tutorial_DeepLearning](misc/deep-learning/tutorial_DeepLearning.pdf) | 11.8, 11.12, 11.13 <br> Watch videos `lec10-*` |
 |  11  | 03/31 | KNN Recap, Clustering <br> [scribbles-knn](scribbles/lec11a.pdf) <br> [knn tutorial](misc/tutorial-knn.pdf) <br> [scribbles-hierarchical](scribbles/lec11b.pdf) <br> [scribbles-kmeans](scribbles/lec11c.pdf) <br> [kmeans tutorial](misc/tutorial-kmeans.pdf) <br> [scribbles-gmm-em](scribbles/lec11d.pdf) <br> Assigned [KNN HW](hw-nearestneighbor.pdf) <br> Assigned [Clustering HW](hw-clustering.pdf) | 7.1-7.4, 7.8, 7.9, 8.2.3, 8.4 <br> Watch videos `lec11-*` |
 |  12  | 04/07 | Reinforcement Learning <br> [scribbles-RL](scribbles/lec12-all.pdf) <br> [QLearning tutorial](misc/tutorial-qlearning.pdf)  <br> Assigned [RL HW](hw-reinforcement-learning.pdf) due April 14 <br> Assigned [Final Project](project-final/README.md) due April 21 @ 6:00pm | 18.1-18.5 <br> Watch videos `lec12-*` |
+|  13  | 04/14 | Dimensionality Reduction <br> [scribbles-dim-reduct](scribbles/lec13-all.pdf) | Ch06 <br> Watch videos `lec13-*` |
 
 
 ### Helpful links
